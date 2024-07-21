@@ -171,7 +171,7 @@ Make sure you have the necessary dependencies in your build.gradle file.
 Use Android Studio to build and run the project on an Android device or emulator.
 
 Contributing
-  Contributions are welcome! Feel free to fork the repository and submit pull requests.
+* Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
 
 

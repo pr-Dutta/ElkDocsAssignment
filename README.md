@@ -161,8 +161,8 @@ fun blendColor(startColor: Color, endColor: Color, fraction: Float): Color {
 Setup
 
 1. Clone the Repository:
-git clone https://github.com/pr-Dutta/ElkDocsAssignment.git
-cd ElkDocsAssignment
+* git clone https://github.com/pr-Dutta/ElkDocsAssignment.git
+* cd ElkDocsAssignment
 
 2. Install Dependencies:
 Make sure you have the necessary dependencies in your build.gradle file.
